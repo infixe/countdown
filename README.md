@@ -1,6 +1,7 @@
-This is a simple countdown timer
+# <a href='http://infixe.click/countdown/'>Christmas Countdown</a> 
+ This is a simple countdown timer built using html, css and javascript.
 
-http://infixe.click/countdown/
+# <a href='https://github.com/infixe/GitGram'>GitGram - Github Integration for Telegram Bot API</a>
+<a href='https://t.me/+Q_W584iiPGYwNjZl'>Get Updates</a> - join this group to receive updates on this repo. 
 
-
-Add this url: https://gitupdates.herokuapp.com//-679612899 to webhooks of the project
+This page is connected to <a href='https://github.com/infixe/GitGram'> GitGram</a> via a webhook and the app is deployed on <a href='https://gitupdates.herokuapp.com/'>Heroku</a>. 
